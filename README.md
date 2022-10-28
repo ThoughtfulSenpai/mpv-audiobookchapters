@@ -1,3 +1,9 @@
+**Easily** navigate audiobooks by showing a scrollable list of chapters during playback.
+<img width="972" alt="Captura de Pantalla 2022-10-27 a la(s) 11 07 27 p m" src="https://user-images.githubusercontent.com/100229664/198507076-364948f1-66b9-4c26-91ca-d5ddc7410ca3.png">
+
+
+
+
 # mpv-scroll-list
 
 This is an API to allow scripts to create interactive scrollable lists in mpv player.
